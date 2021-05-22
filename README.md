@@ -1,1 +1,1 @@
-Here you will the tools related to hacking . where Hacking-Tools contails the tools and scripts for hacking.
+Here you will get the tools related to hacking .where as Hacking-Tools contails the tools and scripts for hacking.
